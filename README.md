@@ -8,6 +8,8 @@ Use chrome, right-click on the Mode button and choose "Inspect element", change 
 
 Then create an additional WiFi network on your router (or use an additional AP), for SSID use: LSD and for password use: 12345678 and for Encryption choose WPA2-AES, and voila! It will connect to this WiFi network and shows on your WiFi router client list! 
 
+If you have Unifi, make sure you have Fast Roaming disabled or it will connect then inmediatelly disconnect.
+
 If you want, you can use your router MAC whitelist to allow only this device MAC address to that SSID.
 
 Code to edit on the webpage of the device:
