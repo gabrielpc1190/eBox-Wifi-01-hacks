@@ -14,8 +14,8 @@ If you have Unifi, make sure you have Fast Roaming disabled or it will connect t
 If you want, you can use your router MAC whitelist to allow only this device MAC address to that SSID.
 
 Code to edit on the webpage of the device:
-
+```
 <select name="wifi_mode" class="select-style">
-     <option value="AP">AP Mode </option>
-     <option value="STA">STA Mode  ADDED BY ME</option>
+     <option value="STA">STA Mode</option>
     </select>
+```
