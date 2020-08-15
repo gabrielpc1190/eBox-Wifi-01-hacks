@@ -1,4 +1,5 @@
 # eBox-Wifi-01-hacks
+# You can set the new version of this device to STA mode, I even was able to make it join into my main network with WPA2-AES!
 
 For all of you who have been like me, trying to setup the new version of this device to STA, it's possible, even with some security!
 
